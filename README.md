@@ -1,14 +1,10 @@
-# 𝖏𝖚𝖆𝖓 𝕭𝖔𝖙
+# ㅤㅤ𝖏𝖚𝖆𝖓 𝕭𝖔𝖙
 
 <div align="center">
-  
-https://github.com/user-attachments/assets/tu-archivo-aqui.mp4
-
+  <img src="LINK_DE_TU_GIF_AQUI" alt="𝖏𝖚𝖆𝖓 𝕭𝖔𝖙" width="280"/>
   <br>
   <p>Un bot de WhatsApp Ligero y Rapido para la comunidad</p>
 </div>
 
-## [♥] Creador Guapó
-
-* **SoyMaycol:** [JUAN](https://github.com/juan20092)
+* **𝖏𝖚𝖆𝖓:** [JUAN](https://github.com/juan20092)
 > Creadores de la base (JUAN BOT): Burlao
