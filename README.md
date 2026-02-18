@@ -1,7 +1,7 @@
-# ­­­­­­­­­­­ㅤㅤ𝕄𝕒𝕪𝕔𝕠𝕝𝐏𝐥𝐮𝐬
+# ­­­­­­­­­­­ㅤㅤ𝖏𝖚𝖆𝖓 𝕭𝖔𝖙
 
 <div align="center">
-  <img src="https://o.uguu.se/aeOaOjGD.jpg" alt="𝖏𝖚𝖆𝖓 𝕭𝖔𝖙 🍷" width="250"/>
+  <img src="https://o.uguu.se/aeOaOjGD.jpg" alt="𝖏𝖚𝖆𝖓 𝕭𝖔𝖙" width="280"/>
   <br>
   <p>Un bot de WhatsApp Ligero y Rapido para la comunidad</p>
 </div>
