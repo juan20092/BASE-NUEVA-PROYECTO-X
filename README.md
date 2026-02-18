@@ -1,7 +1,7 @@
 # ­­­­­­­­­­­ㅤㅤ𝖏𝖚𝖆𝖓 𝕭𝖔𝖙
 
 <div align="center">
-  <img src="https://o.uguu.se/aeOaOjGD.jpg" alt="𝖏𝖚𝖆𝖓 𝕭𝖔𝖙" width="280"/>
+  <img src="https://cdn.russellxz.click/c746e62d.jpg" alt="𝖏𝖚𝖆𝖓 𝕭𝖔𝖙" width="280"/>
   <br>
   <p>Un bot de WhatsApp Ligero y Rapido para la comunidad</p>
 </div>
