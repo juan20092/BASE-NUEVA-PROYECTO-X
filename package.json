@@ -1,7 +1,7 @@
 {
-  "name": "MaycolPlus",
+  "name": "Base",
   "version": "1.0.0",
-  "description": "Hecho por SoyMaycol",
+  "description": "Creado Por Burlao",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -12,23 +12,23 @@
   "scripts": {
     "start": "node index.js"
   },
-  "homepage": "https://github.com/SoySapo6/MaycolPlus",
+  "homepage": "https://github.com/juan20092/BASE-NUEVA-PROYECTO-X",
   "author": {
     "name": "SoyMaycol"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SoySapo6/MaycolPlus"
+    "url": "git+https://github.com/juan20092/BASE-NUEVA-PROYECTO-X"
   },
   "bugs": {
-    "url": "https://github.com/SoySapo6/MaycolPlus/issues"
+    "url": "https://github.com/juan20092/BASE-NUEVA-PROYECTO-X/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@bochilteam/scraper": "^4.2.4",
     "@hapi/boom": "^10.0.1",
     "@StarlightsTeam/Scraper": "github:Ado926/Starlights-Scraper",
-    "@whiskeysockets/baileys": "github:SoySapo6/AdonixBaileys",
+    "@whiskeysockets/baileys": "github:juan20092/baylesXR",
     "api-dylux": "^1.8.5",
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "ruhend-scraper": "*",
