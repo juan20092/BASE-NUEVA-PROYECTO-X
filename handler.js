@@ -313,7 +313,8 @@ export async function handler(chatUpdate) {
                     isPrems,
                     chatUpdate,
                     __dirname: ___dirname,
-                    __filename
+                    __filename,
+                    rcanal: global.rcanal
                 }))
                     continue
             }
@@ -449,7 +450,8 @@ ${user.bannedReason}` : '💌 *Motivo:* Sin Especificar'}\n\n⚠️ *Si cree que
                     isPrems,
                     chatUpdate,
                     __dirname: ___dirname,
-                    __filename
+                    __filename,
+                    rcanal: global.rcanal
                 }
                 try {
                     await plugin.call(this, m, extra)
@@ -544,47 +546,47 @@ global.dfail = (type, m, conn) => {
     let user2 = m.pushName || 'VIP BOT'
     const msg = {
 rowner: `┏━━━✦☆✦━━━┓
-🌙  El conjuro  solo lo 
+✯ El conjuro  solo lo 
 puede usar mi amo supremo.  
 (ノಠ益ಠ)ノ彡✧
 ┗━━━✦☆✦━━━┛`,
 
 owner: `╔═══ ❖ ═══╗
-🔮 El hechizo pertenece 
+✯ El hechizo pertenece 
 a los guardianes mayores.  
 ヽ(>∀<☆)ノ
 ╚═══ ❖ ═══╝`,
 
 mods: `｡☆✼★━━━━★✼☆｡
-☁️ El poder de está reservado
+✯ El poder de está reservado
 a los moderadores mágicos.
 (｡•́︿•̀｡)
 ｡☆✼★━━━━★✼☆｡`,
 
 premium: `✧･ﾟ: *${comando}* ✧･ﾟ:
-💎 Solo los bendecidos premium  
+✯ Solo los bendecidos premium  
 pueden tocar este tesoro UwU
 ⊂(￣▽￣)⊃`,
 
 group: `┏(＾0＾)┛
-🏮 El ritual   sólo
+✯ El ritual   sólo
 funciona en salones grupales.
 ┗(＾0＾) ┓`,
 
 private: `╭(♡･ㅂ･)و ̑̑
-📜 El conjuro sólo se
+✯ El conjuro sólo se
 revela en privado conmigo.
 ╰(°▽°)╯`,
 
 admin: `( ⚆ _ ⚆ )  
-📛 El talismán requiere 
+✯ El talismán requiere 
 la fuerza de un admin.`,
 
 botAdmin: `╰(⇀︿⇀)つ-]═──
-🤖 Para usar necesito ser 
+✯ Para usar necesito ser 
 el guardián admin primero!`,
 
-restrict: `🚪 Esta puerta secreta  
+restrict: `✯ Esta puerta secreta  
 está cerrada por órdenes del creador.`
     }[type];
     if (msg) return conn.reply(m.chat, msg, m, rcanal).then(_ => m.react('🚫'))
