@@ -30,25 +30,4 @@
 
 ---
 
-# 🤖 ¿QUÉ ES EREN - BOT?
 
-**EREN – BOT** es un bot multi-función para WhatsApp con:
-
-- ⚡ Sistema rápido y optimizado  
-- 🎮 Juegos integrados  
-- 🎵 Descargas multimedia  
-- 🛡️ Protección para grupos  
-- 🤖 Funciones de inteligencia artificial  
-- 🎨 Creador de stickers  
-
----
-
-# 🚀 INSTALACIÓN
-
-## 📲 INSTALAR EN TERMUX
-
-<details>
-<summary><b>📌 VER PASOS</b></summary>
-
-```bash
-termux-setup-storage
